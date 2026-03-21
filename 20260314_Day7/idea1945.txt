@@ -1,0 +1,4 @@
+Leetcode 1945 -> Easy
+- Su dung string rong de luu cac gia tri cua cac ki tu trong bang chu cai 
+- Dong thoi truoc khi luu phai tru di 96 trong bang ma ASCII
+- Sau do su dung dong thoi ham sum va list comprehention de tinh toan nhanh hon

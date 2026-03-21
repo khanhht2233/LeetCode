@@ -1,0 +1,6 @@
+Leetcode 1 -> Easy
+- Tim 2 so thuoc mang numbers co tong bang target
+- Duyet theo cach binh thuong thi do phuc tap se la O(n^2) -> Khong he toi uu
+- Minh su dung 1 dictionary(Hash Map) -> trong moi lan duyet minh se tim phan con thieu trong tong do
+- Neu need da co trong dic thi tra ve ket qua, neu khong thi them need vao dic bang cach dic[numbers[i]] = i
+

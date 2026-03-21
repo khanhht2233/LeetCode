@@ -1,0 +1,5 @@
+Leetcode 66 -> Easy
+-Su dung mot bien de luu cac so trong 1 list thanh 1 so nguyen co so chu so bang length(arr)
+-cong 1 cho so nguyen 
+-return list cac so trong bien sau khi da cong them 1 
+-> Su dung list comprehension de lam code tro nen pythonic hon -> solved

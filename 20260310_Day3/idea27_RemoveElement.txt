@@ -1,0 +1,7 @@
+Leetcode27 -> Easy
+-Su dung 2 con tro, mot con tro dung de cap nhat va 1 con tro dung de chay
+-Neu con tro cap nhat tro vao vi tri nums[i] != val thi ngay lap tuc su dung den con tro ghi
+de ghi vao mang cap nhat gia tri moi cho mang bat dau bang con tro ghi = 0
+- ghi xong thi cap nhat con tro ghi den vi tri tiep theo sau vi tri vua cap nhat
+- ket thuc vong lap:
+ -> tra ve vi gia tri cua con tro ghi ung voi so gia tri khac val cua nums

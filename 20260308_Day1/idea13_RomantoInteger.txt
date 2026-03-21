@@ -1,0 +1,7 @@
+Leetcode : 13
+Tạo ra một dictionary với các kí tự trong số la mã
+Duyệt trên string đầu vào , xét các kí tự : 
++ tạo biến res = 0 lưu giá trị
++ nếu kí tự đó không phải là kí tự cuối cùng và nhỏ hơn kí tự liền kề bên phải thì res + âm giá trị đó trong dic 
++ còn lại thì cộng dồn vào s những giá trị lưu trong dictionary
++Độ phức tạp O(len(s)) -> O(n)

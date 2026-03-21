@@ -1,0 +1,5 @@
+Leetcode202 -> Easy
+- Sung dung vong lap va dieu kien dung la tong = 1
+- Diem dac biet cua bai nay la viec neu no khong phai la happy number thi no se la 1 cycle cua cac con so
+- Vay nen bai nay uu tien su dung set de check viec no co trung lap khong
+-> bai toan  dc giai quyet\

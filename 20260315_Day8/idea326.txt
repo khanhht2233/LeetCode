@@ -1,0 +1,7 @@
+Leetcode 326 -> Easy
+- TH n <= 0 : thi sai vi khong co x nao sao cho 3^X <= 0
+- Con lai : xu li bang cach neu chia lien tuc cho 3 cho den cuoi cung neu con chia het cho 3
+- n == 1 -> return True
+- n != 1 -> return False
+
+

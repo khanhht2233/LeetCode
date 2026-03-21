@@ -1,0 +1,5 @@
+Leetcode : 09 -> Easy
+Ngôn ngữ : Python
+Đầu vào là 1 số int , dầu ra T/F
+Ý tưởng là sử dụng slicing list -> ứng dụng với arr
+Độ phức tạp : O(1)

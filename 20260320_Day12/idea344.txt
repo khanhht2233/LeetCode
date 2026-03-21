@@ -1,0 +1,8 @@
+Leetcode 344 -> Easy
+Yeu cau de bai : Dao nguoc mot mang chua cac ki tu in-place -> thay doi truc  tiep tai vi tung vi tri cua mang 
+-Xu li bang two poiters voi vong lap while lap cho den khi i >= j 
+-Tai sao lai la i >= j:
++ Trong turong hop len(arr) chan thi chi xay ra truong hop i > j -> dung vong lap
++ Trong truong hop len(arr) le thi xay ra th i == j -> vi tri cua phan tu chinh giua mang ma phan tu nay khi lat nguoc van o vi tri nay
+->> Dung ngay tai vi tri nay
+ 

@@ -1,0 +1,10 @@
+LeetCode88: -> Easy
+- Mot bai ung dung merge sort 
+- m la so phan tu thuc da sort cua nums1 con n la do dai cua nums2 
+- Yeu cau de bai la cho 2 arr da sort nums1, nums2 dong thoi nums1 tuong tuong la co do dai la m + n voi n la so ao
+- De bai yeu cau tra ve arr gop cua 2 arr theo thu tu va phai sua tren nums1 => 1 vai van de duoc dat ra 
+- Ve viec ung dung rap khuon doi voi merge sort truyen thong thi se xay ra truong hop bi bo qua dong thoi sua truc tiep tren nums1
+nen rat kho xu li trong truong hop nay
+- Vi vay phai xu li tu cuoi mang di len, nhung vi su dung 2 con tro vi vay se co TH no se bi InDex error nen phai ux li truong hop nay 
+- Mot truong hop pho bien khac la viec nums1 het truoc nums2 nen phai xu li them nums2 cho het so phan tu
+ 

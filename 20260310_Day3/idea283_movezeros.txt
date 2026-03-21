@@ -1,0 +1,2 @@
+Leetcode283 -> Easy
+-Chung y tuong voi bai 27 su dung hai con tro 

@@ -1,0 +1,4 @@
+Leetcode  69 -> Easy
+- Tinh va tra ve gia tri cua can bac 2 cua n lam tron xuong den so nguyen gan nhat
+- Ko duoc su dung cac phep tinh co san 
+- Su dung ham math floor, va math sqrt de lam bai nay

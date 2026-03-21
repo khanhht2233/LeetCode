@@ -1,0 +1,8 @@
+Leetcode 492 -> Easy
+- Xu li bang cach duyet tu can cua area vi xuat phat tu dieu kien la L >= R
+- Vi vay chay tu can cua area se giam di do phuc tap 
+- Dong thoi phai xu li turong hop lam tron neu nhu can (n) < n phai cong 1 vao vi dieu kien
+- Do phuc tap O(n - can(n))
+
+-Cach toi uu hon la duyet tu can(n) -> 1
+-> Do phuc tap O(can(n))

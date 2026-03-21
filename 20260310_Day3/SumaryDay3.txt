@@ -1,0 +1,2 @@
+-Topic day3 : two pointers and array (Easy)
+-Su dung dong thoi 2 con tro de xu li cac bai toan kem cac dieu kien phu theo bai 

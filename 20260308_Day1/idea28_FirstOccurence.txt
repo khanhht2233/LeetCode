@@ -1,0 +1,3 @@
+Leetcode 28: -> Easy
+Su dung vong for duyet s dong thời sử dụng kĩ thuật slicing str để so với needle với độ dài bằng needle
+Độ phức tạp thuật toán : O(n)

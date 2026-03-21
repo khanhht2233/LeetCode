@@ -1,0 +1,4 @@
+Leetcode 58: -> Easy
+-Cho mot string lon xon -> su dung dong thoi 2 phuong thuc split, strip de loai bo khoang trang va dong thoi bien thanh 1 list
+-Lay tu cuoi cung 1 cach de dang bang cach su dung list[-1]
+-> tra ve do dai cua ki tu cuoi cung ->solved

@@ -1,0 +1,6 @@
+Leetcode287: -> Easy
+-Su dung dictionary de sang loc chon ra so bi lap lai
+-Tao set de thu dc tap hop cac phan tu cua nums khong trung lap
+-Tao 1 set voi do dai bang voi nums cua de bai 1 -> len(nums)
+-Su dung difference de tim phan tu bi thieu
+-Tra ve [phan tu lap, phan tu bi thieu]

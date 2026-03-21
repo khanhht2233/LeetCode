@@ -1,0 +1,5 @@
+Leetcode67 ->Easy
+-Su dung cac phep bien doi de chuyen nhi phan sang thap phan roi chuyen nguoc lai
+-Sau do tao str luu gia tri cua cac so du khi chia total cho 2 lien tuc cho den khi bang khong
+-Xu li truong hop ngoai le khi lam viec voi cac gia tri dac biet cua 2 tham so
+-return str[::-1] de dam bao dung so 

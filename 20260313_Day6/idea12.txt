@@ -1,0 +1,6 @@
+Leetcode 12 -> Medium
+- Tao dictionary , or mang 2 chieu de luu bang gia tri cua cac so la ma
+- Luu y trong phan tao bang gia tri:
+-> vi co them nhung gia tri dac biet nhu 4,9,40,90,400,900 dung tai 900 vi dua tren pham vi cua de bai
+-> chen them cac gia tri dac biet theo thu tu vao mang 
+- Su dung phep chia lam nho dan num de ghep lai roi dua ra ket qua

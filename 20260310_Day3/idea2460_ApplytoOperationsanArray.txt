@@ -1,0 +1,2 @@
+Leetcode 2460 -> easy
+-Su dung chung y tuong voi 2 bai tren la su dung two pointers 

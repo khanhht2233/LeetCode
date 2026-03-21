@@ -1,0 +1,2 @@
+Leetcode118 ->Easy
+- Xet cac truong dac biet 

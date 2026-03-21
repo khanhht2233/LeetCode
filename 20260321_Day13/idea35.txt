@@ -1,0 +1,9 @@
+Leetcode 35 -> Easy
+- Ung dung cua binary search de tim kiem target 
+- Neu target trong mang thi tra ve mid nhu BS binh thuong
+- Con neu khong tim duoc thi luc nay mang cua ta co dang 
+[So nho hon target] [right] [left] [So lon hon target]
+-Vi vay luc nay thi left la vi tri dau tien cua mang cac so lon hon target
+-> return left -> Vi tri nay la diem can chen
+
+    
