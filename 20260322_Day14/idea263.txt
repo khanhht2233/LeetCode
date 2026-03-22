@@ -1,0 +1,4 @@
+Leetcode 263 -> Easy
+-Y tuong xu li la tao ra mot mang chua cac so 2, 3, 5
+-Chia lien tuc  cac so trong mang cho den khi khong the chia tiep dc
+-Tra ve ket qua cua phep so sanh n = 1
